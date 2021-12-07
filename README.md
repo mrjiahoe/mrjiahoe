@@ -7,6 +7,8 @@
 
 [<img align="left" alt="LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" color="purple"/>][linkedin]
 [<img align="left" alt="Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="CodePen" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][CodePen]
+
 
 <br />
 
@@ -37,3 +39,4 @@
 
 [instagram]: https://www.instagram.com/jiahoe/
 [linkedin]: https://www.linkedin.com/in/jia-hoe-chong/
+[CodePen]: https://codepen.io/mrjiahoe
